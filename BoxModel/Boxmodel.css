@@ -1,0 +1,30 @@
+/* Initial */
+.title {
+  background-color: white;
+}
+
+.container {
+  background-color: #ff34ea;
+  font-size: x-large;
+}
+
+.cool-element {
+  background-color: green;
+  /* Padding */
+  padding: 10px;
+  /* Margin */
+  margin: 10px;
+  /* Border */
+  border: 4px solid red;
+  /* Width */
+  width: 300px;
+  /* Box sizing */
+  box-sizing: border-box;
+
+
+}
+
+/* Step 4 */
+img {
+  margin-left: 10px;
+}

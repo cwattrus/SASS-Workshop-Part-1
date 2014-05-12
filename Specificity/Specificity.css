@@ -1,0 +1,40 @@
+/* Which one is applied first? */
+
+p {
+  color: red;
+}
+
+body p {
+  color: blue;
+}
+
+/* Which one is applied first? */
+
+.winning {
+  text-decoration: underline;
+}
+
+#winning {
+  text-decoration: none;
+}
+
+/* Which one is applied first? */
+
+p[type=winning] {
+  border: 2px solid blue;
+}
+
+p {
+  border: 2px solid red;
+}
+
+/* Which one is applied first? */
+
+.winning.snail {
+  color: black;
+}
+
+.snail {
+  color: red;
+}
+

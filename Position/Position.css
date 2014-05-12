@@ -1,0 +1,30 @@
+/* Initial */
+.title {
+  background-color: white;
+}
+
+.container {
+  background-color: #ff34ea;
+  font-size: x-large;
+}
+
+.cool-element {
+  background-color: green;
+  padding: 10px;
+  margin: 10px;
+  border: 4px red solid;
+  width: 300px;
+  box-sizing: border-box;
+
+  /* Position */
+}
+
+.first-element {
+  position: fixed;
+  top: 0px;
+}
+
+
+img {
+  margin-left: 10px;
+}

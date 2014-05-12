@@ -1,0 +1,11 @@
+img {
+  width: 500px;
+}
+
+.image {
+  display: inline-block;
+}
+
+.other-image {
+  float: right;
+}
